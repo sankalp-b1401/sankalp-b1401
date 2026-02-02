@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am **==cybersecurity enthusiast who loves anything and everything that cybersecurity offers. To be specific, I am interested in researching vulnerabilities, web pen-testing and reverse engineering. In my free time, I like to cycle, watch anime and play chess. Also I am a mountain person (who hasn't been to as many mountains).</p>
+<p align="left">I am cybersecurity enthusiast who loves anything and everything that cybersecurity offers. To be specific, I am interested in researching vulnerabilities, web pen-testing and reverse engineering. In my free time, I like to cycle, watch anime and play chess. Also I am a mountain person (who hasn't been to as many mountains).</p>
 
 ###
 
