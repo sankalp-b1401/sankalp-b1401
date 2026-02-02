@@ -75,17 +75,20 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+<!-- <h2 align="left">GitHub Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalp-b1401&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalp-b1401&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=My" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalp-b1401&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <a href="https://github.com/Pranesh-2005/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=sankalp-b1401" />
+  </a>
+  <a href="https://github.com/Pranesh-2005/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sankalp-b1401&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </div>
 
-###
+### -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalp-b1401/sankalp-b1401/output/pacman-contribution-graph-dark.svg">
