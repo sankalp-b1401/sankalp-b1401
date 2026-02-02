@@ -1,16 +1,8 @@
 <h1 align="center">Hi, I am Sankalp!</h1>
 
-###
+<br />
 
-<p align="left">I am cybersecurity enthusiast who loves anything and everything that cybersecurity offers. To be specific, I am interested in researching vulnerabilities, web pen-testing and reverse engineering. In my free time, I like to cycle, watch anime and play chess. Also I am a mountain person (who hasn't been to as many mountains).</p>
-
-###
-
-<h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
+<div class="tools" align="center">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -32,13 +24,9 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
 </div>
 
-###
+<br />
 
-<h2 align="left">Programming & Scripting</h2>
-
-###
-
-<div align="left">
+<div class="programming" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -60,7 +48,7 @@
 
 ###
 
-<h2 align="left">Blogs</h2>
+<h2 align="left">Blogs:</h2>
 
 ###
 
