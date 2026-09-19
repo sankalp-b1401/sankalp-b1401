@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I am Sankalp!</h1>
 
-[My Portfolio Website](https://sankalp-bansal-portfolio.vercel.app/)
-
 <br />
 
 <div class="tools" align="center">
@@ -89,6 +87,13 @@
 ###
 
 <div align="center">
+<a href="https://sankalp-bansal-portfolio.vercel.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+    height="40"
+    alt="portfolio logo"
+  />
+</a>
   <a href="https://www.linkedin.com/in/sankalpb1401/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
