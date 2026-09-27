@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.gif" alt="Portfolio"/>
+<img src="./assets/bear.gif" alt="mascot"/>
 
 ---
 
