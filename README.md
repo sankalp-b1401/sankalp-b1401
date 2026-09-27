@@ -8,19 +8,19 @@
 
 <div>
   <a href="https://sankalp-bansal-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/CHECK_MY_PORTFOLIO-B7FF00?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A&labelColor=B7FF00" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/CHECK_MY_PORTFOLIO-B7FF00?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A&labelColor=B7FF00" alt="Portfolio" height=25/>
   </a>
   <a href="https://www.linkedin.com/in/sankalpb1401/" target="_blank">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-B7FF00?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=B7FF00" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-B7FF00?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=B7FF00" alt="LinkedIn" height=25/>
   </a>
   <a href="https://x.com/sankalpb1401" target="_blank">
-    <img src="https://img.shields.io/badge/FOLLOW_ON_X-B7FF00?style=for-the-badge&logo=x&logoColor=0A0A0A&labelColor=B7FF00" alt="X"/>
+    <img src="https://img.shields.io/badge/FOLLOW_ON_X-B7FF00?style=for-the-badge&logo=x&logoColor=0A0A0A&labelColor=B7FF00" alt="X" height=25/>
   </a>
   <a href="https://medium.com/@sankalp.b1401" target="_blank">
-    <img src="https://img.shields.io/badge/READ_MY_BLOGS-B7FF00?style=for-the-badge&logo=medium&logoColor=0A0A0A&labelColor=B7FF00" alt="Medium"/>
+    <img src="https://img.shields.io/badge/READ_MY_BLOGS-B7FF00?style=for-the-badge&logo=medium&logoColor=0A0A0A&labelColor=B7FF00" alt="Medium" height=25/>
   </a>
   <a href="mailto:sankalp.b1401@gmail.com?subject=Collaboration%20Inquiry">
-    <img src="https://img.shields.io/badge/SEND_AN_EMAIL-B7FF00?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=B7FF00" alt="Email"/>
+    <img src="https://img.shields.io/badge/SEND_AN_EMAIL-B7FF00?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=B7FF00" alt="Email" height=25/>
   </a>
 </div>
 
